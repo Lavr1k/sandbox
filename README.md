@@ -1,2 +1,2 @@
 # sandbox
-Gust a little sandbox
+Just a little sandbox
